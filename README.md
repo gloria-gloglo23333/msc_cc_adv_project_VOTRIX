@@ -91,7 +91,7 @@ By making a weather system simulator to enrich the scene. The principle is to ch
 Initially, we think giving camera a pixel shader might look better. What the pixel shader do is that making the whole scene pixelated. However, we found it does not suit the scene, so we abandoned this option.
 
  
-- Load active scene and load next scene.
+- [Load active scene and load next scene](https://github.com/gloria-gloglo23333/msc_cc_adv_project_VOTRIX/blob/main/Assets/0605export/Yansong/Script/SwitchScene.cs)
 
 
 Reload the scene when the animal “dead”, for each scene in our game, when the animal collide with a specific object, it will “dead”. When the animal dead it will reload the scene. This founction is same as load next level, but just a small difference, when the animal hit the “load next level” object, it will let the camera animation play first, when the animation finished, it will load the next scene.
