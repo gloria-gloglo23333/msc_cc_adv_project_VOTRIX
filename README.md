@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/73170220/174639293-454fddf8-7c86-49f9-
 
 
 
-**- Yansong is doing all the pineball collier, weather, sounds script. He also made the sheep model and cliff scence:**
+### - Yansong is doing all the pineball collier, weather, sounds script, who also made the sheep model and cliff scence:
 
 - Making the sheep scene(with Avatar Cliffs)
 
@@ -74,7 +74,7 @@ The Avatar Cliffs (lamb’s perch), which is a scene with five floating cliffs. 
 
 
 
-- Make sound
+- [Make sound] 
 
 In oder to make the animal make sound, a way called 'on trigger enter' or 'on collider enter' in c# is a good way to start. This founction will detch every collid or triger when one object hit the other one when you give the object a collider and make it on trigger.
 
@@ -98,7 +98,7 @@ Reload the scene when the animal “dead”, for each scene in our game, when th
 All the functions for transforming scenes are implemented by means of triggers.
 
  
-#### - Fengyi is in charge of building 2 scences and a animal model.
+### - Fengyi is in charge of building 2 scences and a animal model.
  
 - the little bull ball:
 
