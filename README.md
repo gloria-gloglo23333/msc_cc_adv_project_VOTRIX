@@ -86,7 +86,7 @@ Here is what happened when one object hit the other one and make a sound. A soun
 By making a weather system simulator to enrich the scene. The principle is to change the colour of the light as well as the intensity over deltatime.
 
 
-- Camera pixel shader
+- [Camera pixel shader](https://github.com/gloria-gloglo23333/msc_cc_adv_project_VOTRIX/blob/main/Assets/0605export/Yansong/shader/shaderharder.cs)
 
 Initially, we think giving camera a pixel shader might look better. What the pixel shader do is that making the whole scene pixelated. However, we found it does not suit the scene, so we abandoned this option.
 
