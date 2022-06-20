@@ -10,7 +10,7 @@ __Voice Matrix.
  
  
  
- #### Fengyi is incharge of building 2 scences and a animal model.
+ #### - Fengyi is incharge of building 2 scences and a animal model.
  
 - the little bull ball:
 
