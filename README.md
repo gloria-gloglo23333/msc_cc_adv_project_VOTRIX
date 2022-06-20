@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/73170220/174639293-454fddf8-7c86-49f9-
 
 
 
-#### - Yansong is doing all the pineball collier, weather, sounds script. He also made the sheep model and cliff scence:
+**- Yansong is doing all the pineball collier, weather, sounds script. He also made the sheep model and cliff scence:**
 
 - Making the sheep scene(with Avatar Cliffs)
 
