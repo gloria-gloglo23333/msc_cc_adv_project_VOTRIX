@@ -81,7 +81,7 @@ In oder to make the animal make sound, a way called 'on trigger enter' or 'on co
 Here is what happened when one object hit the other one and make a sound. A sound source is given to the impacted object, and when the impacted object detects the impact on the trigger, it will evoke and play the sound source, thus achieving the sound of the impact.
 
 
-- Weather simulation
+- [Weather simulation](https://github.com/gloria-gloglo23333/msc_cc_adv_project_VOTRIX/blob/main/Assets/0605export/Yansong/Script/WeatherManager.cs)
 
 By making a weather system simulator to enrich the scene. The principle is to change the colour of the light as well as the intensity over deltatime.
 
