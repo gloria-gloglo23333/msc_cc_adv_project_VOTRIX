@@ -54,13 +54,51 @@ https://user-images.githubusercontent.com/73170220/174639293-454fddf8-7c86-49f9-
 
 
 
+#### - Yansong is doing all the pineball collier, weather, sounds script. He also made the sheep model and cliff scence:
+
+- Making the sheep scene(with Avatar Cliffs)
+
+The Avatar Cliffs (lamb’s perch), which is a scene with five floating cliffs. Each cliff is covered in lush vegetation. At the bottom of the scene is an ocean of water. The aim is to control the lamb by recognising gestures with Leap motion to crash into the bottom cliff and move on to the next level. If the lamb falls into the sea, the scene will restart.
 
 
+
+<img width="1904" alt="Screenshot 2022-05-15 at 12 47 44" src="https://user-images.githubusercontent.com/73170220/174687167-458aac43-6d99-44de-a932-713e2d57e94c.png">
+
+<img width="1904" alt="Screenshot 2022-05-23 at 18 53 11" src="https://user-images.githubusercontent.com/73170220/174687183-c68f37f4-0627-4dc6-806b-36c6cde97f5a.png">
+
+<img width="1904" alt="Screenshot 2022-05-23 at 20 48 02" src="https://user-images.githubusercontent.com/73170220/174687200-d5865009-e499-4f98-84ef-b7fdc6076bc5.png">
+
+<img width="1904" alt="Screenshot 2022-05-12 at 11 31 34" src="https://user-images.githubusercontent.com/73170220/174687148-c4f7b530-04ef-475f-abe6-1844585a56b5.png">
+
+![untitled](https://user-images.githubusercontent.com/73170220/174687243-1cc96e4d-818a-4592-9618-043ceb5a9ede.png)
+
+
+
+- Make sound
+
+In oder to make the animal make sound, a way called 'on trigger enter' or 'on collider enter' in c# is a good way to start. This founction will detch every collid or triger when one object hit the other one when you give the object a collider and make it on trigger.
+
+Here is what happened when one object hit the other one and make a sound. A sound source is given to the impacted object, and when the impacted object detects the impact on the trigger, it will evoke and play the sound source, thus achieving the sound of the impact.
+
+
+- Weather simulation
+
+By making a weather system simulator to enrich the scene. The principle is to change the colour of the light as well as the intensity over deltatime.
+
+
+- Camera pixel shader
+
+Initially, we think giving camera a pixel shader might look better. What the pixel shader do is that making the whole scene pixelated. However, we found it does not suit the scene, so we abandoned this option.
 
  
+- Load active scene and load next scene.
+
+
+Reload the scene when the animal “dead”, for each scene in our game, when the animal collide with a specific object, it will “dead”. When the animal dead it will reload the scene. This founction is same as load next level, but just a small difference, when the animal hit the “load next level” object, it will let the camera animation play first, when the animation finished, it will load the next scene.
+All the functions for transforming scenes are implemented by means of triggers.
 
  
- #### - Fengyi is incharge of building 2 scences and a animal model.
+#### - Fengyi is in charge of building 2 scences and a animal model.
  
 - the little bull ball:
 
