@@ -74,7 +74,7 @@ The Avatar Cliffs (lamb’s perch), which is a scene with five floating cliffs. 
 
 
 
-- [Make sound] 
+- [Make sound]https://github.com/gloria-gloglo23333/msc_cc_adv_project_VOTRIX/blob/main/Assets/0605export/-Scripts/AudioClipList.cs
 
 In oder to make the animal make sound, a way called 'on trigger enter' or 'on collider enter' in c# is a good way to start. This founction will detch every collid or triger when one object hit the other one when you give the object a collider and make it on trigger.
 
