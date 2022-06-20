@@ -16,8 +16,12 @@ For example, the sheep’s intestines are used to make strings, the horn is used
 
 ### How to play?
 
-When player first see the game, there will be cube rotating automaticlly. 4 sides of the cube have 4 different themes scences which contain different animal pineballs. THen the palyer just need to press the space key to enter the first scence to start. In each scene.
+When player first see the game, there will be cube rotating automaticlly. 4 sides of the cube have 4 different themes scences which contain different animal pineballs. THen the palyer just need to press the space key to enter the first scence to start. In each scene.\
 
+https://user-images.githubusercontent.com/73170220/174636909-6e8cdd96-9f6e-4ae8-be65-1248be1ef943.mp4
+
+
+The player will use leap motion to control the cube. The leap motion will recognise waving and grabbing movements to control the cube in each different scene. The goal of this game is to help the animal pineball reaching the target icon and entering next level. During the process of reaching the goal, the animals will make different pitched sounds by hitting different terrains.
 
 - The Avatar Cliff
 
@@ -28,7 +32,11 @@ https://user-images.githubusercontent.com/73170220/174638212-dd40e062-93fe-4e1a-
 - The Ancient Temple
 
 
-https://user-images.githubusercontent.com/73170220/174636909-6e8cdd96-9f6e-4ae8-be65-1248be1ef943.mp4
+
+
+https://user-images.githubusercontent.com/73170220/174639757-4ad60e94-2ca7-4ad2-ba59-4b9282bd8106.mp4
+
+
 
 
 - THe Fairy Tale Forest
@@ -45,7 +53,7 @@ https://user-images.githubusercontent.com/73170220/174639293-454fddf8-7c86-49f9-
 
 
 
-The player will use leap motion to control the cube. The leap motion will recognise waving and grabbing movements to control the cube in each different scene. The goal of this game is to help the animal pineball reaching the target icon and entering next level. During the process of reaching the goal, the animals will make different pitched sounds by hitting different terrains.
+
 
 
 
