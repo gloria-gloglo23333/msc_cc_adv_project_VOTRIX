@@ -131,11 +131,11 @@ Reload the scene when the animal “dead”, for each scene in our game, when th
 All the functions for transforming scenes are implemented by means of triggers.
 
 
-### - 🐱 Lingyu is making 2 animal pineballs and a scence (The Lost Temple) 🐱：
+### - 🐱 Lingyu is making 2 animal pineballs and a scene (The Lost Temple) 🐱：
 
 - The Lost Temple
 
-The scence contain 4 platforms and several other things that allowed pineball to collide. Each collision produces a different marimba sound. The player need to hit the skull isle to enter the next level.
+The scene contain 4 platforms and several other things that allowed pineball to collide. Each collision produces a different marimba sound. The player need to hit the skull isle to enter the next level.
 
 ![9f08b47860e8258ef7c3abc38f52abd](https://user-images.githubusercontent.com/73170220/174691402-c215ea64-9f8d-4321-9d60-c8d16914fec6.png)
 
@@ -192,7 +192,7 @@ _the temple:
 
 - The Fiary Tale Forest
 
-This is a scence based on yellow and green colours forest theme scence. The player need to used the bull ball to hit the gloden arche to reach the final level.
+This is a scene based on yellow and green colours forest theme scence. The player need to used the bull ball to hit the gloden arche to reach the final level.
 
 
 ![WechatIMG244](https://user-images.githubusercontent.com/73170220/174632373-cbb97e50-7adf-4d89-8a1e-ed0b91bf47bd.jpeg)
@@ -201,7 +201,7 @@ This is a scence based on yellow and green colours forest theme scence. The play
 
 - The Frozen Haven
 
-This is the final scence. It is a snow garden which is full of white and blue colours. The player need to hit the snow flower to exit this level.
+This is the final scene. It is a snow garden which is full of white and blue colours. The player need to hit the snow flower to exit this level.
 
 ![WechatIMG243](https://user-images.githubusercontent.com/73170220/174632347-75e53e0f-a08c-4f67-8267-9cc345d625de.jpeg)
 
