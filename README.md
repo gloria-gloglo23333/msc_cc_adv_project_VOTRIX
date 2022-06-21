@@ -143,7 +143,12 @@ The scence contain 4 platforms and several other things that allowed pineball to
 - The snake ball
 
 
+![WeChat Image_20220621014153](https://user-images.githubusercontent.com/73170220/174693519-8834053a-cfb9-40f1-9ab6-88258d7a5360.png)
+
+
 - The snow tiger ball
+
+![72f0ffef450d0f294693fcf2f74c5b0](https://user-images.githubusercontent.com/73170220/174693531-1819a2bf-e15d-41f3-ba32-537d99d4f776.png)
 
 
 
@@ -162,15 +167,15 @@ after using Flatkit Shader:
 
 - The grphic for The Avatar Cliff and The Lost Temple
 
-the cliff (which is not fit the scence and we did not used at the end:
+_the cliff (which is not fit the scence and we did not used at the end:
 
 ![045b54b075e143910ff7f02ef9f7803](https://user-images.githubusercontent.com/73170220/174692817-3c90b91a-d8fe-41ff-9ce6-4749982326ac.png)
 
 
- ![WeChat Image_20220621013819](https://user-images.githubusercontent.com/73170220/174693232-c59a2713-0110-4f35-9413-f5d40c30fe27.png)
+![WeChat Image_20220621013819](https://user-images.githubusercontent.com/73170220/174693232-c59a2713-0110-4f35-9413-f5d40c30fe27.png)
 
 
-the temple:
+_the temple:
 
 ![b2a8d6b3504f2122c108f3b33e8c1f4](https://user-images.githubusercontent.com/73170220/174692631-ca944fa6-bf17-451b-87d1-170eca99986a.png)
 
@@ -179,24 +184,47 @@ the temple:
  
 ### - Fengyi is in charge of building 2 scences and a animal model.
  
-- The little bull ball:
+- The bull ball
 
 <img width="1512" alt="µê¬σ▒Å2022-05-31 19 56 38" src="https://user-images.githubusercontent.com/73170220/174632321-00712205-e1ef-49af-98cc-945356ec49a5.png">
 
 
-- The Snow(tiger) scence:
 
-![WechatIMG243](https://user-images.githubusercontent.com/73170220/174632347-75e53e0f-a08c-4f67-8267-9cc345d625de.jpeg)
+- The Fiary Tale Forest
 
-- The Grass(bull) scence:
+This is a scence based on yellow and green colours forest theme scence. The player need to used the bull ball to hit the gloden arche to reach the final level.
 
 
 ![WechatIMG244](https://user-images.githubusercontent.com/73170220/174632373-cbb97e50-7adf-4d89-8a1e-ed0b91bf47bd.jpeg)
 
-- The front picture for the scence:
+
+
+- The Frozen Haven
+
+This is the final scence. It is a snow garden which is full of white and blue colours. The player need to hit the snow flower to exit this level.
+
+![WechatIMG243](https://user-images.githubusercontent.com/73170220/174632347-75e53e0f-a08c-4f67-8267-9cc345d625de.jpeg)
+
+- Grahpics for those scence
+
+_front picture for the scence:
 
 
 
  ![UI2_τö╗µ¥┐ 1](https://user-images.githubusercontent.com/73170220/174632413-a5d93321-f56c-4f09-9dec-d1f9825ca0fb.png)
-
  
+ 
+_the forest
+
+![image](https://user-images.githubusercontent.com/73170220/174694176-d34a18d4-06c5-40f5-84f6-c54595be5dd5.png)
+
+
+_the snow garden
+
+![image](https://user-images.githubusercontent.com/73170220/174694260-2a972b7d-20cd-452b-b899-290f057a2f39.png)
+
+
+## Final Outcome! https://youtu.be/Sc35Hmz4tYk
+ 
+## Player reaction on the BIG SHOW! https://www.youtube.com/watch?v=GGwbrq1Cmt8
+
