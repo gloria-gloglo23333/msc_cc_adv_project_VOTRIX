@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/73170220/174639293-454fddf8-7c86-49f9-
 
 
 
-### - 🐡 Dongzhuo is doing scence change, portal effect and teleport, camera motion scripts 🐡:
+### - 🐡 Dongzhuo is doing scene change, portal effect and teleport, camera motion scripts 🐡:
 
 - [Leap motion interaction](https://github.com/gloria-gloglo23333/msc_cc_adv_project_VOTRIX/blob/main/Assets/0605export/-Scripts/Rotator.cs)
 
