@@ -29,7 +29,7 @@ The player will use leap motion to control the cube. The leap motion will recogn
 https://user-images.githubusercontent.com/73170220/174638212-dd40e062-93fe-4e1a-b463-ee6adea26245.mp4
 
 
-- The Ancient Temple
+- The Lost Temple
 
 
 
@@ -130,24 +130,69 @@ Initially, we think giving camera a pixel shader might look better. What the pix
 Reload the scene when the animal “dead”, for each scene in our game, when the animal collide with a specific object, it will “dead”. When the animal dead it will reload the scene. This founction is same as load next level, but just a small difference, when the animal hit the “load next level” object, it will let the camera animation play first, when the animation finished, it will load the next scene.
 All the functions for transforming scenes are implemented by means of triggers.
 
+
+### - Lingyu is making 2 animal pineballs and a scence (The Lost Temple) 
+
+- The Lost Temple
+
+The scence contain 4 platforms and several other things that allowed pineball to collide. Each collision produces a different marimba sound. The player need to hit the skull isle to enter the next level.
+
+![9f08b47860e8258ef7c3abc38f52abd](https://user-images.githubusercontent.com/73170220/174691402-c215ea64-9f8d-4321-9d60-c8d16914fec6.png)
+
+
+- The snake ball
+
+
+- The snow tiger ball
+
+
+
+- The toon shader
+
+In order to run the game smoother, toon shader is a good way to reduce the program's operation on light. However, the shader is not wokring perfectly, we decided to use Flatkit Shader.
+
+![df1e8842c3b21c75d1ce4c2b5d526ad](https://user-images.githubusercontent.com/73170220/174692667-3feae573-9c75-408d-ae27-7faf6b6a581f.png)
+
+
+after using Flatkit Shader:
+
+
+![af73aa021a98000ab8e90fd5a807032](https://user-images.githubusercontent.com/73170220/174692728-8ab3d48f-6ffe-401a-bb07-255b6b554a56.png)
+
+
+- The grphic for The Avatar Cliff and The Lost Temple
+
+the cliff (which is not fit the scence and we did not used at the end:
+
+![045b54b075e143910ff7f02ef9f7803](https://user-images.githubusercontent.com/73170220/174692817-3c90b91a-d8fe-41ff-9ce6-4749982326ac.png)
+
+
+ [Photo]
+
+the temple:
+
+![b2a8d6b3504f2122c108f3b33e8c1f4](https://user-images.githubusercontent.com/73170220/174692631-ca944fa6-bf17-451b-87d1-170eca99986a.png)
+
+
+
  
 ### - Fengyi is in charge of building 2 scences and a animal model.
  
-- the little bull ball:
+- The little bull ball:
 
 <img width="1512" alt="µê¬σ▒Å2022-05-31 19 56 38" src="https://user-images.githubusercontent.com/73170220/174632321-00712205-e1ef-49af-98cc-945356ec49a5.png">
 
 
-- the Snow(tiger) scence:
+- The Snow(tiger) scence:
 
 ![WechatIMG243](https://user-images.githubusercontent.com/73170220/174632347-75e53e0f-a08c-4f67-8267-9cc345d625de.jpeg)
 
-- the Grass(bull) scence:
+- The Grass(bull) scence:
 
 
 ![WechatIMG244](https://user-images.githubusercontent.com/73170220/174632373-cbb97e50-7adf-4d89-8a1e-ed0b91bf47bd.jpeg)
 
-#### And she also draw the front picture for the scence:
+- The front picture for the scence:
 
 
 
