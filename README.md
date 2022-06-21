@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/73170220/174639293-454fddf8-7c86-49f9-
 
 
 
-### - ✨Dongzhuo is doing scence change, portal effect and teleport, camera motion scripts:
+### - 🐡 Dongzhuo is doing scence change, portal effect and teleport, camera motion scripts 🐡:
 
 - [Leap motion interaction](https://github.com/gloria-gloglo23333/msc_cc_adv_project_VOTRIX/blob/main/Assets/0605export/-Scripts/Rotator.cs)
 
@@ -87,7 +87,7 @@ Press the space key to enter the game.
 
 
 
-### - Yansong is doing all the pineball collier, weather, sounds script, who also made the sheep model and cliff scence:
+### - 🐏 Yansong is doing all the pineball collier, weather, sounds script, who also made the sheep model and cliff scence 🐏:
 
 - Making the sheep scene(with Avatar Cliffs)
 
@@ -131,7 +131,7 @@ Reload the scene when the animal “dead”, for each scene in our game, when th
 All the functions for transforming scenes are implemented by means of triggers.
 
 
-### - Lingyu is making 2 animal pineballs and a scence (The Lost Temple) 
+### - 🐱 Lingyu is making 2 animal pineballs and a scence (The Lost Temple) 🐱：
 
 - The Lost Temple
 
@@ -167,7 +167,7 @@ after using Flatkit Shader:
 
 - The grphic for The Avatar Cliff and The Lost Temple
 
-_the cliff (which is not fit the scence and we did not used at the end:
+_the cliff (which is not fit the scence and we did not used in the end:
 
 ![045b54b075e143910ff7f02ef9f7803](https://user-images.githubusercontent.com/73170220/174692817-3c90b91a-d8fe-41ff-9ce6-4749982326ac.png)
 
@@ -182,7 +182,7 @@ _the temple:
 
 
  
-### - Fengyi is in charge of building 2 scences and a animal model.
+### - 🐻‍❄️ Fengyi is in charge of building 2 scences and a animal model 🐻‍❄️.
  
 - The bull ball
 
