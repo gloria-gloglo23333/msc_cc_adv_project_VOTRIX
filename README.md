@@ -228,3 +228,14 @@ _the snow garden
  
 ## Player reaction on the BIG SHOW! https://www.youtube.com/watch?v=GGwbrq1Cmt8
 
+
+### What could we do better?
+
+1. Adjust the leap motion to make it smoother and easier to use
+2. Give the whole game a contiue story, which will led players have more immersive feelings
+3. Adjust the enter scence
+4. Adding loading scence, making player not panic about if they are or not hit the goal
+5. Adding exit meun, making game complete
+
+
+#### Overall, we think it's a great game and a greap project. Hope you like it! ;)
