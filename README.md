@@ -167,7 +167,8 @@ the cliff (which is not fit the scence and we did not used at the end:
 ![045b54b075e143910ff7f02ef9f7803](https://user-images.githubusercontent.com/73170220/174692817-3c90b91a-d8fe-41ff-9ce6-4749982326ac.png)
 
 
- [Photo]
+ ![WeChat Image_20220621013819](https://user-images.githubusercontent.com/73170220/174693232-c59a2713-0110-4f35-9413-f5d40c30fe27.png)
+
 
 the temple:
 
