@@ -87,7 +87,7 @@ Press the space key to enter the game.
 
 
 
-### - 🐏 Yansong is doing all the pineball collier, weather, sounds script, who also made the sheep model and cliff scence 🐏:
+### - 🐏 Yansong is doing all the pineball collier, weather, sounds script, the sheep model and cliff scence 🐏:
 
 - Making the sheep scene(with Avatar Cliffs)
 
